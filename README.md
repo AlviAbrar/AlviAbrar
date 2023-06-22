@@ -19,4 +19,4 @@ I'm a passionate freelance Python developer with a knack for solving complex pro
 
 ### 📊 Stats
 
-![Alvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlviAbrar&show_icons=true&theme=gruvbox)
+![Alvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlviAbrar&show_icons=true&theme=radical)
