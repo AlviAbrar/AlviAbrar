@@ -1,4 +1,4 @@
-# 🕊️ Alvi
+# 🦅 Alvi
 
 **`Digital Craftsman (Developer/Freelancer/Creator)`**
 
