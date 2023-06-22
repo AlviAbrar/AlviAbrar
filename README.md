@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Freelancer/Creator)`**
 
-I'm a passionate freelance Python developer with a knack for solving complex problems and building efficient software solutions. With 3 years of experience in the industry, I have honed my skills in Python development, and I love leveraging the power of this versatile language to create robust and scalable applications.
+I'm a passionate new freelance Python developer with a knack for solving complex problems and building efficient software solutions. With 3 years of experience in Python, I have honed my skills in Python development, and I love leveraging the power of this versatile language to create robust and scalable applications.
 
 ---
 
